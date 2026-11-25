@@ -460,7 +460,7 @@ section p {
     margin-bottom: 16px;
 }
 
-/* Contenedor de la foto y el fondo asimétrico fluido */
+.caja-texto-historia .eslogan-tradicion { margin-top: 20px; color: var(--amarillo-sunshine); font-family: 'Cormorant Garamond', Georgia, serif; font-size: 23px; font-weight: 700; line-height: 1.35; } /* Contenedor de la foto y el fondo asimétrico fluido */
 .caja-imagen-bloque {
     flex: 1;
     display: flex;
